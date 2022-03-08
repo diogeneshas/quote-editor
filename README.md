@@ -1,24 +1,11 @@
-# README
+# Turbo Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learn how to create modern, single-page, reactive web applications with Ruby on Rails 7 without writing any custom JavaScript code.
 
-Things you may want to cover:
+Hotwire is the default frontend framework for Rails:
 
-* Ruby version
+* With the release of Rails 7 in December 2021, Hotwire, which is the combination of Stimulus and Turbo, became the default frontend framework for Ruby on Rails applications.
 
-* System dependencies
+* While Stimulus has been around for quite some time now, Turbo is a brand new library for many developers in the Rails ecosystem.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Turbo comes with incredible capabilities. As mentioned on the README for the turbo-rails repository: Turbo gives you the speed of a single-page web application without having to write any JavaScript.
